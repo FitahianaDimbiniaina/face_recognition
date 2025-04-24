@@ -122,4 +122,4 @@ Captures a frame and checks it against all registered faces.
 
 ## License
 
-MIT License – Feel free to modify and use for educational purposes.
+MIT License 
