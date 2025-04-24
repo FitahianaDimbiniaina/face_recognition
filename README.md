@@ -22,9 +22,5 @@ A real-time face recognition system built with **PyTorch**, **facenet-pytorch**,
 - [PyTorch](https://pytorch.org/)
 - [facenet-pytorch](https://github.com/timesler/facenet-pytorch)
 - NumPy, Pillow, UUID
-- JSON for lightweight data storage
 
----
-
-## 📁 Project Structure
 
